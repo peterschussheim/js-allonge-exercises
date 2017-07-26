@@ -1,0 +1,8 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/peterschussheim/recipes",
+  "author": "Peter Schussheim <peter@schussheim.com>",
+  "license": "MIT"
+}

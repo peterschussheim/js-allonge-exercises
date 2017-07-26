@@ -1,0 +1,47 @@
+{
+  "sessions": [
+    {
+      "id": "2a92af5a-b030-45f6-a2cf-eef8bfc3bf0d",
+      "tabLayout": {
+        "type": "row",
+        "width": 100,
+        "height": 100,
+        "tabs": [],
+        "subItems": [
+          {
+            "type": "stack",
+            "width": 49.50391644908616,
+            "height": 100,
+            "tabs": [
+              {
+                "id": "c5daa7ef-dbb9-45d5-92f8-40edeba6c411",
+                "relativeUrl": "file://./src/Sorting/merge-sort/merge-sort.ts",
+                "additionalData": null
+              }
+            ],
+            "subItems": [],
+            "activeItemIndex": 0
+          },
+          {
+            "type": "stack",
+            "width": 50.49608355091384,
+            "height": 100,
+            "tabs": [
+              {
+                "id": "6c19b85d-96c1-4d3e-980b-adbb44b74992",
+                "relativeUrl": "livedemo://./src/Sorting/merge-sort/merge-sort.ts",
+                "additionalData": null
+              }
+            ],
+            "subItems": [],
+            "activeItemIndex": 0
+          }
+        ],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1493670221923,
+      "selectedTabId": "c5daa7ef-dbb9-45d5-92f8-40edeba6c411"
+    }
+  ],
+  "relativePathToTsconfig": "./tsconfig.json"
+}
