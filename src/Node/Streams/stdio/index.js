@@ -12,6 +12,7 @@ process.stdin.pipe(through(write)).pipe(process.stdout)
  * @param {function} next 
  */
 function write(buf, enc, next) {
-  // the first arg of `next` is null since we aren't passing an error
+  // the first arg of `next` is null since we aren't passing an error.
+  // sending null indicates the stream is finished.
   next(null, buf.toString().toUpperCase())
 }
