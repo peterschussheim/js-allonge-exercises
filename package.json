@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/peterschussheim/recipes",
   "author": "Peter Schussheim <peter@schussheim.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^2.0.3"
+  }
 }
