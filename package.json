@@ -6,6 +6,7 @@
   "author": "Peter Schussheim <peter@schussheim.com>",
   "license": "MIT",
   "dependencies": {
+    "babel-core": "^6.25.0",
     "through2": "^2.0.3"
   }
 }
