@@ -1,5 +1,7 @@
 # recipes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/peterschussheim/recipes.svg)](https://greenkeeper.io/)
+
 ## Overview
 
 ## TODO
